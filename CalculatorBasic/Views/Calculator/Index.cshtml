@@ -1,0 +1,41 @@
+﻿@model CalculatorBasic.Models.CalculatorModel
+
+<link rel="stylesheet" href="~/css/site.css" />
+
+<div class="calc-box">
+    <h2>🧮 Calculator</h2>
+
+    <form method="post" asp-action="Calculate" asp-controller="Calculator">
+
+        <label>Number 1</label>
+        <input type="number" name="Num1" step="any" placeholder="Enter first number" />
+
+        <label>Number 2</label>
+        <input type="number" name="Num2" step="any" placeholder="Enter second number" />
+
+        <label>Operation</label>
+        <select name="Operation">
+            <option value="Add">➕ Add</option>
+            <option value="Subtract">➖ Subtract</option>
+            <option value="Multiply">✖️ Multiply</option>
+            <option value="Divide">➗ Divide</option>
+        </select>
+
+        <button type="submit">= Calculate</button>
+
+    </form>
+
+    @if (Model.Result != null)
+    {
+        <div class="result">
+            ✅ Result: @Model.Result
+        </div>
+    }
+
+    @if (Model.ErrorMessage != null)
+    {
+        <div class="error">
+            ⚠️ @Model.ErrorMessage
+        </div>
+    }
+</div>

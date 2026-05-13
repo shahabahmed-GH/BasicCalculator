@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Test\\CalculatorBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|f:\\c# test\\calculatorbasic\\calculatorbasic\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E24CF2-EBD6-4632-8A19-9AC555C4B367}|CalculatorBasic\\CalculatorBasic.csproj|solutionrelative:calculatorbasic\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalculatorBasic\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T20:40:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CalculatorBasic\\wwwroot\\css\\site.css",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CalculatorBasic\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-07T20:18:27.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Program.cs",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Program.cs",
+              "RelativeToolTip": "CalculatorBasic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:54:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "CalculatorBasic\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T20:51:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Controllers\\CalculatorController.cs",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorBasic\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:37:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Models\\CalculatorModel.cs",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "CalculatorBasic\\Models\\CalculatorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:17:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CalculatorBasic\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\C# Test\\CalculatorBasic\\CalculatorBasic\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CalculatorBasic\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:15:38.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
