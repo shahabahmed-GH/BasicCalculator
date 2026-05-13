@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="calc%20ss1.png" width="300" />
-  <img src="calc%20ss3.png" width="300" />
+  <img src="cal%20ss3.png" width="300" />
 </p>
 
 ## ✨ Features
