@@ -1,8 +1,8 @@
 # 🧮 Simple Calculator
 
 <p align="center">
-  <img src="Simple%20Calc%20SS.png" width="300" />
-  <img src="Calc%20ss2.png" width="300" />
+  <img src="calc%20ss1.png" width="300" />
+  <img src="Calc%20ss3.png" width="300" />
 </p>
 
 ## ✨ Features
